@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "358647652054",
+    "project_id": "analytics-claudio",
+    "storage_bucket": "analytics-claudio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358647652054:android:81e9bdf1d8584cfab07377",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1lxGK_y62-prHE4QkZpkRuoIqEUJmn7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
